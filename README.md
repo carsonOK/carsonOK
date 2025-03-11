@@ -1,18 +1,12 @@
 
 <!--  https://github.com/carsonOK/ -->
-<p align="center">
- 
-</p align="center">
 <img src="https://raw.githubusercontent.com/carsonOK/carsonOK/refs/heads/main/githubReadmeImage.png" />
 
-<p align="center">
  <center>
  <img src="https://badges.pufler.dev/visits/carsonOK/carsonOK"/> 
  <img src="https://badges.pufler.dev/repos/carsonOK"/>
  <img src="https://badges.pufler.dev/commits/monthly/carsonOK" />
-
-</p>
-
+  
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
